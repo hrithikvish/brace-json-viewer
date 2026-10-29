@@ -6,7 +6,7 @@ title: Privacy Policy
 
 _Last updated: October 29, 2026_
 
-This policy covers the JSON Formatter Chrome extension ("the extension"), which formats JSON documents opened in Google Chrome.
+This policy covers the Brace – JSON Viewer Chrome extension ("the extension"), which formats JSON documents opened in Google Chrome.
 
 ## Data collection
 

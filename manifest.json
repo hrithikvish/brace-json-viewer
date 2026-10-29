@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "JSON Formatter (2-space)",
+  "name": "Brace – JSON Viewer",
   "version": "1.0",
   "description": "Formats JSON in the browser with configurable indents, indent guides, line numbers, collapsible nodes and one-click copy.",
   "icons": {
