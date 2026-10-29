@@ -30,4 +30,4 @@ Any changes to this policy will be posted on this page with an updated date.
 
 ## Contact
 
-For questions, open an issue at <https://github.com/hrithikvish/json-formatter-web/issues>.
+For questions, open an issue at <https://github.com/hrithikvish/brace-json-viewer/issues>.
